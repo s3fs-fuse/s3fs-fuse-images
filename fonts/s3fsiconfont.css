@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "s3fs";
+	src: url('s3fs.eot');
+	src: url('s3fs.eot?#iefix') format('eot'),
+		url('s3fs.woff'), format('woff'),
+		url('s3fs.ttf'), format('truetype'),
+		url('s3fs.svg#s3fs'), format('svg');
+}
+
+[class^="s3fs-icon-font-"], [class^=" s3fs-icon-font-"] {
+	font-family:				's3fs';
+	-webkit-font-smoothing:		antialiased;
+	-moz-osx-font-smoothing:	grayscale;
+	font-style:					normal;
+	font-variant:				normal;
+	font-weight:				normal;
+	test-decoration:			none;
+	test-transform:				none;
+}
+
+.s3fs-icon-font-logo:before {
+	content: "\E001";
+}
+
+.s3fs-icon-font-icon:before {
+	font-size: 1.2rem;
+	content: "\E001";
+}
