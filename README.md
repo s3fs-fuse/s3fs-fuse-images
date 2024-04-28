@@ -2,7 +2,7 @@
 
 This repository provides logos and images for [s3fs-fuse](https://github.com/s3fs-fuse).
 
-![s3fs-fuse](https://github.com/ggtakec/s3fs-fuse-images/blob/master/images/s3fslogo.png)
+![s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse-images/blob/master/images/s3fslogo.png)
 
 ## s3fs-fuse Logos/Images/IconFont and Usage
 This is the logos and images guideline for [s3fs-fuse](https://github.com/s3fs-fuse).
